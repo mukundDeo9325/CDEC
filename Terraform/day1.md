@@ -27,7 +27,7 @@ What is Provider Block?
 ```hcl
 provider "aws" {
 region = "ap-south-1"    ## use region
-
+}
 
 
 
